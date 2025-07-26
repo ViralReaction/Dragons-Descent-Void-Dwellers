@@ -18,6 +18,10 @@
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2026992161</steamWorkshopUrl>
 		</li>
 	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>onyxae.dragonsdescent</li>
+	</loadAfter>
 	<description>A simple addon that adds 8 new dragons as well as some other dragon related stuff.</description>
 
 </ModMetaData>

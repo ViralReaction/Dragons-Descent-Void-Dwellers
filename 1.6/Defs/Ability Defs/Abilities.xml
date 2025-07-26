@@ -3,7 +3,7 @@
 
   <!--====================== Void Breath ======================-->
   
-  <VFECore.Abilities.AbilityDef>
+  <VEF.Abilities.AbilityDef>
         <defName>Projectile_Void_Breath</defName>
         <label>Void breath</label>
         <description>Rawr</description>
@@ -18,15 +18,15 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_Void_Breath</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef> 
+      </VEF.Abilities.AbilityDef> 
   
   <!--========= Nebula breath =============-->
   
-  <VFECore.Abilities.AbilityDef>
+  <VEF.Abilities.AbilityDef>
         <defName>Projectile_Nebula_Breath</defName>
         <label>Nebula breath</label>
         <description>Rawr</description>
@@ -41,15 +41,15 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_Nebula_Breath</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef> 
+      </VEF.Abilities.AbilityDef> 
 	  
 	  <!--================ Aurelion Breath =============-->
 	  
-	  <VFECore.Abilities.AbilityDef>
+	  <VEF.Abilities.AbilityDef>
         <defName>Projectile_Aurelion_Breath</defName>
         <label>Aurelion breath</label>
         <description>Boop</description>
@@ -64,15 +64,15 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_Aurelion_Breath</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef> 
+      </VEF.Abilities.AbilityDef> 
 	  
 	  <!--================ stardust Breath =============-->
 	  
-	  <VFECore.Abilities.AbilityDef>
+	  <VEF.Abilities.AbilityDef>
         <defName>Projectile_Stardust_Breath</defName>
         <label>Stardust breath</label>
         <description>Rawr</description>
@@ -87,15 +87,15 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_Stardust_Breath</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef> 
+      </VEF.Abilities.AbilityDef> 
 	  
 	  <!--================ Molten Breath =============-->
 	  
-	  <VFECore.Abilities.AbilityDef>
+	  <VEF.Abilities.AbilityDef>
         <defName>Projectile_Molten_Breath</defName>
         <label>Molten breath</label>
         <description>Rawr</description>
@@ -110,15 +110,15 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_Molten_Breath</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef>
+      </VEF.Abilities.AbilityDef>
 
 		<!--================ Surge Breath =============-->
 	  
-	  <VFECore.Abilities.AbilityDef>
+	  <VEF.Abilities.AbilityDef>
         <defName>Projectile_DD_Surge_Breath</defName>
         <label>Surge breath</label>
         <description>Rawr</description>
@@ -133,15 +133,15 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_DD_Surge_Breath</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef> 
+      </VEF.Abilities.AbilityDef> 
 	  
 	  <!--================ Mind Flay =============-->
 	  
-	  <VFECore.Abilities.AbilityDef>
+	  <VEF.Abilities.AbilityDef>
         <defName>Projectile_DD_Mind_Flay</defName>
         <label>Flay breath</label>
         <description>Rawr</description>
@@ -156,15 +156,15 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_DD_Mind_Flay</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef> 
+      </VEF.Abilities.AbilityDef> 
 	  
 	  <!--================ Hellfire =============-->
 	  
-	  <VFECore.Abilities.AbilityDef>
+	  <VEF.Abilities.AbilityDef>
         <defName>Projectile_DD_Hellfire</defName>
         <label>Hellfire breath</label>
         <description>Rawr</description>
@@ -179,14 +179,14 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_DD_Hellfire</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef> 
+      </VEF.Abilities.AbilityDef> 
 	  
 	  <!--================ Ecplipse =============-->
-	  <VFECore.Abilities.AbilityDef>
+	  <VEF.Abilities.AbilityDef>
         <defName>Projectile_DD_Eclipse</defName>
         <label>Eclipse breath</label>
         <description>Rawr</description>
@@ -201,16 +201,16 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_DD_Eclipse</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef> 
+      </VEF.Abilities.AbilityDef> 
 	  
 	  
 	  <!--================ Constrain =============-->
 	  
-	  <VFECore.Abilities.AbilityDef>
+	  <VEF.Abilities.AbilityDef>
         <defName>Projectile_DD_Constrain</defName>
         <label>Constrain breath</label>
         <description>Rawr</description>
@@ -225,15 +225,15 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_DD_Constrain</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef> 
+      </VEF.Abilities.AbilityDef> 
 	  
 	  <!--================ Rend =============-->
 	  
-	  <VFECore.Abilities.AbilityDef>
+	  <VEF.Abilities.AbilityDef>
         <defName>Projectile_DD_Rend</defName>
         <label>Rend breath</label>
         <description>Rawr</description>
@@ -248,11 +248,11 @@
         <castSound>DragonBreathShot</castSound>
         <showUndrafted>true</showUndrafted>
         <modExtensions>
-          <li Class="VFECore.Abilities.AbilityExtension_Projectile">
+          <li Class="VEF.Abilities.AbilityExtension_Projectile">
              <projectile>Projectile_DD_Rend</projectile>
           </li>
         </modExtensions>
-      </VFECore.Abilities.AbilityDef> 
+      </VEF.Abilities.AbilityDef> 
   
 	
   
